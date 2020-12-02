@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/07/07 12:08:15.997.pas,C:\Users\BSCAKO\Documents\RAD Studio\Projets\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\MainUnit.pas</Transaction>
+    <Transaction>2014/07/07 12:08:15.997.dfm,C:\Users\BSCAKO\Documents\RAD Studio\Projets\Unit1.dfm=C:\Users\BSCAKO\Desktop\Final v 1.1\MainUnit.dfm</Transaction>
+    <Transaction>2014/07/07 12:08:19.432.dproj,C:\Users\BSCAKO\Documents\RAD Studio\Projets\Project1.dproj=C:\Users\BSCAKO\Desktop\Final v 1.1\GeneralisedLagrangeViewer.dproj</Transaction>
+    <Transaction>2014/07/08 10:19:49.085.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\TypeUnit.pas</Transaction>
+    <Transaction>2014/07/08 10:21:13.868.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\ProjectUnit.pas</Transaction>
+    <Transaction>2014/07/08 10:28:03.814.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\SettingUnit.pas</Transaction>
+    <Transaction>2014/07/08 10:28:03.814.dfm,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.dfm=C:\Users\BSCAKO\Desktop\Final v 1.1\SettingUnit.dfm</Transaction>
+    <Transaction>2014/07/08 10:32:26.445.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\SettingUnit.pas=</Transaction>
+    <Transaction>2014/07/08 10:32:26.445.dfm,C:\Users\BSCAKO\Desktop\Final v 1.1\SettingUnit.dfm=</Transaction>
+    <Transaction>2014/07/08 10:33:17.570.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\SettingUnit.pas</Transaction>
+    <Transaction>2014/07/08 10:33:17.570.dfm,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.dfm=C:\Users\BSCAKO\Desktop\Final v 1.1\SettingUnit.dfm</Transaction>
+    <Transaction>2014/07/08 10:37:20.391.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\EnterDataUnit.pas</Transaction>
+    <Transaction>2014/07/08 10:38:17.789.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\ExitDataUnit.pas</Transaction>
+    <Transaction>2014/07/08 10:39:19.744.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\ReportUnit.pas</Transaction>
+    <Transaction>2014/07/08 10:40:01.127.dfm,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.dfm=C:\Users\BSCAKO\Desktop\Final v 1.1\AboutUnit.dfm</Transaction>
+    <Transaction>2014/07/08 10:40:01.127.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\AboutUnit.pas</Transaction>
+    <Transaction>2014/07/08 10:49:46.944.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\LanguageUnit.pas</Transaction>
+    <Transaction>2014/07/09 11:32:09.862.dfm,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.dfm=C:\Users\BSCAKO\Desktop\Final v 1.1\ShowTranslateFunctionUnit.dfm</Transaction>
+    <Transaction>2014/07/09 11:32:09.862.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\ShowTranslateFunctionUnit.pas</Transaction>
+    <Transaction>2014/07/21 14:33:41.686.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\DistinctionUnit.pas</Transaction>
+    <Transaction>2014/07/26 15:51:32.978.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\GenerateFunctionUnit.pas</Transaction>
+    <Transaction>2014/07/27 16:08:49.207.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\HistoryUnit.pas</Transaction>
+    <Transaction>2014/08/12 21:15:05.676.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\AboutUnit.pas=</Transaction>
+    <Transaction>2014/08/12 21:15:05.676.dfm,C:\Users\BSCAKO\Desktop\Final v 1.1\AboutUnit.dfm=</Transaction>
+    <Transaction>2014/08/15 12:06:57.833.pas,C:\Users\BSCAKO\Desktop\Final v 1.1\Unit1.pas=C:\Users\BSCAKO\Desktop\Final v 1.1\HelpUnit.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="EnterDataUnit.pas"/>
+    <File Path="ExitDataUnit.pas"/>
+    <File Path="LanguageUnit.pas"/>
+    <File Path="MainUnit.pas"/>
+    <File Path="MainUnit.dfm"/>
+    <File Path="ProjectUnit.pas"/>
+    <File Path="ReportUnit.pas"/>
+    <File Path="SettingUnit.pas"/>
+    <File Path="SettingUnit.dfm"/>
+    <File Path="ShowTranslateFunctionUnit.pas"/>
+    <File Path="ShowTranslateFunctionUnit.dfm"/>
+    <File Path="TypeUnit.pas"/>
+    <File Path="GenerateFunctionUnit.pas"/>
+    <File Path="DistinctionUnit.pas"/>
+    <File Path="HistoryUnit.pas"/>
+    <File Path="HelpUnit.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

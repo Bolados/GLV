@@ -1,0 +1,5 @@
+#define GENERALITE	1000
+#define ADITION		1001
+#define SOUSTRACTION	1002
+#define RESULTAT		1003
+	

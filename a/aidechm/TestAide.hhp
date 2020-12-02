@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=TestAide.chm
+Contents file=SommaireTestAide.hhc
+Default topic=description.htm
+Display compile progress=No
+Index file=IndexTestAide.hhc
+Language=0x40c Français (standard)
+
+
+[FILES]
+description.htm
+soustraction.htm
+adition.htm
+resultat.htm
+
+[INFOTYPES]
+
